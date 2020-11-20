@@ -1,2 +1,2 @@
-# project
+# spare store
 cs_project
